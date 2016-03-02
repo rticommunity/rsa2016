@@ -6,9 +6,9 @@ https://community.rti.com/static/conferences/2016/rsa/exercises.zip
 
 Download individual exercises:
 * Exercise1: https://github.com/rticommunity/rsa2016/blob/master/Exercise1.pdf
-* Exercise2: https://community.rti.com/static/conferences/2016/rsa/e2.pdf
-* Exercise3: https://community.rti.com/static/conferences/2016/rsa/e3.pdf
+* Exercise2: https://github.com/rticommunity/rsa2016/blob/master/Exercise2.pdf
+* Exercise3: https://github.com/rticommunity/rsa2016/blob/master/Exercise3.pdf
 
 Secure shapes demo
-* https://community.rti.com/static/conferences/2016/rsa/GettingStarted_SecureShapesDemo.pdf
+* https://github.com/rticommunity/rsa2016/blob/master/GettingStarted_SecureShapesDemo.pdf
 
